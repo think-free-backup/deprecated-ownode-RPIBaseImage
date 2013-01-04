@@ -14,6 +14,7 @@ sudo dpkg-reconfigure locales
 # Removing games
 
 rm -rf python_games
+rm -rf Desktop
 
 # Some packages 
 
